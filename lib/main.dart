@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.blue,
                 ),
                 title: Text(
-                  '+639653201289',
+                  '+63********89',
                   style: TextStyle(color: Colors.blue, fontSize: 20.0),
                 ),
               ),
@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.blue,
                 ),
                 title: Text(
-                  '916645agravio@gmail.com',
+                  '**********vio@gmail.com',
                   style: TextStyle(color: Colors.blue, fontSize: 20.0),
                 ),
               ),
