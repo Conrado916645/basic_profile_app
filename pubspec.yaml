@@ -19,4 +19,11 @@ flutter:
 
   uses-material-design: true
 
+  fonts:
+    - family: Schoolbell
+      fonts:
+        - asset: fonts/Schoolbell-Regular.ttf
 
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
